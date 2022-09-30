@@ -1,7 +1,5 @@
 # MentorStundents - Product comparison Assessment
 
----
-
 ### STEPS TO RUN SERVER
 
 1. git clone https://github.com/Sai-Manikanta/MentorStudents-product-comparison-server.git
